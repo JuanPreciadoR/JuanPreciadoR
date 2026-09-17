@@ -1,8 +1,6 @@
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/5435e07b-f08a-4b40-bd3b-a38ab5bc7e3b" width="100%" controls></video>
+  <video src="https://github.com" width="100%" autoplay loop muted playsinline></video>
 </div>
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Juan Preciado
 ======================================================================================================================================
 
